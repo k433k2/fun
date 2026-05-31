@@ -1,0 +1,8 @@
+# robots.txt — Funngro Landing Page
+# Instructs all search engine crawlers to index the full site
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap for faster discovery
+Sitemap: https://fun-one-lemon.vercel.app/sitemap.xml
